@@ -1,0 +1,6 @@
+先安装GreeHub
+然后安装完成打开Unlocktool_signed.exe
+然后点击第一个选择中文，在点击下面的启动应用
+等待一下出现GreeHub Unlock Tool，点击Tools或着是工具
+在点击Inject Config
+然后点击授权配置就可以完成了^Q^
